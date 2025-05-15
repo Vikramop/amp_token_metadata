@@ -2,14 +2,14 @@
   "name": "Amply",
   "symbol": "AMP",
   "description": "Amply is the reward token for the Amply EV charging platform.",
-  "image": "https://github.com/Vikramop/amp_token_metadata/blob/master/token-img.jpg",
+  "image": "https://raw.githubusercontent.com/Vikramop/amp_token_metadata/master/token-img.jpg",
   "decimals": 6,
   "seller_fee_basis_points": 0,
   "attributes": [{ "trait_type": "Project", "value": "Amply" }],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/Vikramop/amp_token_metadata/blob/master/token-img.jpg",
+        "uri": "https://raw.githubusercontent.com/Vikramop/amp_token_metadata/master/token-img.jpg",
         "type": "image/png"
       }
     ],
