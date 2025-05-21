@@ -1,6 +1,6 @@
 {
-  "name": "Amply",
-  "symbol": "AMP",
+  "name": "Amply Token",
+  "symbol": "APT",
   "description": "Amply is the reward token for the Amply EV charging platform.",
   "image": "https://raw.githubusercontent.com/Vikramop/amp_token_metadata/master/token-img.jpg",
   "decimals": 6,
